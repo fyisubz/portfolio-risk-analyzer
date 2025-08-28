@@ -1,0 +1,8 @@
+streamlit
+yfinance
+fpdf
+openpyxl
+pandas
+numpy
+matplotlib
+seaborn
