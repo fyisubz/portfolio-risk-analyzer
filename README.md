@@ -165,6 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Project Link: https://github.com/yourusername/portfolio-risk-analyzer
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [9subhodeep@gmail.com](mailto:9subhodeep@gmail.com)
 
-Project Link: [https://github.com/yourusername/portfolio-risk-analyzer](https://github.com/yourusername/portfolio-risk-analyzer)
+Project Link: [https://github.com/fyisubz/portfolio-risk-analyzer](https://github.com/fyisubz/portfolio-risk-analyzer)
