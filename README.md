@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Project Link: https://github.com/yourusername/portfolio-risk-analyzer
+## 📞 Contact
 
-Your Name - [9subhodeep@gmail.com](mailto:9subhodeep@gmail.com)
+Mail - [9subhodeep@gmail.com](mailto:9subhodeep@gmail.com)
 
 Project Link: [https://github.com/fyisubz/portfolio-risk-analyzer](https://github.com/fyisubz/portfolio-risk-analyzer)
