@@ -124,15 +124,15 @@ The application uses the following data sources:
 ## 📸 Application Screenshots
 
 ### Portfolio Analysis Dashboard
-![Portfolio Dashboard](https://github.com/yourusername/portfolio-risk-analyzer/blob/main/images/portfolio_dashboard.png)
+![Portfolio Dashboard](https://github.com/fyisubz/portfolio-risk-analyzer/blob/main/images/portfolio_dashboard.png)
 *Main dashboard showing key portfolio metrics, cumulative returns chart, and portfolio input controls*
 
 ### Risk Analysis & Export Features
-![Risk Analysis](https://github.com/yourusername/portfolio-risk-analyzer/blob/main/images/export_buttons.png)
+![Risk Analysis](https://github.com/fyisubz/portfolio-risk-analyzer/blob/main/images/export_buttons.png)
 *Drawdown analysis visualization and export functionality for PDF/Excel reports*
 
 ### Portfolio Drawdown Analysis
-![Portfolio Drawdown](https://github.com/yourusername/portfolio-risk-analyzer/blob/main/images/drawdown_analysis.png)
+![Portfolio Drawdown](https://github.com/fyisubz/portfolio-risk-analyzer/blob/main/images/drawdown_analysis.png)
 *Detailed drawdown chart showing portfolio losses from peak values over time*
 
 ---
